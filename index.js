@@ -1,5 +1,5 @@
 const core = required('@actions/core')
-const core = required('@actions/github')
+const github = required('@actions/github')
 
 try {
     // `who-to-greet` input defined in action metadata file
